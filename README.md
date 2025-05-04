@@ -55,7 +55,6 @@ This project implements a web-based system to detect and count empty and occupie
 4.  **Download/Place the Model:**
 
     *   Ensure your trained YOLOv8 model weights file (e.g., `best.pt`) is placed correctly. The default path in `web_app.py` is `runs/detect/train9/weights/best.pt`. Update this path in the script if your model is located elsewhere.
-    *   *(Optional: If you used a specific dataset like PKLot, mention where to get it or if it's included/needs separate download for retraining).*
 
 5.  **(Optional) Training Data:**
 
